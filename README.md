@@ -1,8 +1,8 @@
-# [your app name here]
+# [SoundSphere]
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: [Jerry Shi, Donald Antonio Young]
 
 🔗 Link to deployed app:
 
