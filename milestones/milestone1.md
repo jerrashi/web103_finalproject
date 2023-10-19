@@ -6,13 +6,13 @@ This document should be completed and submitted during **Unit 5** of this course
 
 This unit, be sure to complete all tasks listed below. To complete a task, place an `x` between the brackets.
 
-- [ ] Read and understand all required features
-  - [ ] Understand you **must** implement **all** baseline features and **two** custom features
+- [x] Read and understand all required features
+  - [x] Understand you **must** implement **all** baseline features and **two** custom features
 - [x] In `readme.md`: update app name
 - [x] In `readme.md`: add all group members' names
 - [x] In `readme.md`: complete the **Description and Purpose** section
 - [x] In `readme.md`: complete the **Inspiration** section
-- [ ] In `readme.md`: list all features you intend to include in your app (in future units, you will check off features as you complete them and add GIFs demonstrating the features)
+- [x] In `readme.md`: list all features you intend to include in your app (in future units, you will check off features as you complete them and add GIFs demonstrating the features)
 - [x] In `planning/user_stories.md`: add all user stories
 - [ ] In this document, complete the **Reflection** section below
 
@@ -20,7 +20,7 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 
 ### 1. What went well during this unit?
 
-[👉🏾👉🏾👉🏾 your answer here]
+We had a great planning conversation during our initial meeting as a group. During that time we went over our top choices for a project topics and came together to choose a digital download platform similar to Bandcamp in the end. For both of us, it was important to choose a project that not only met a realistic market demand, but also provided us the opportunity to develop value driven web app features.
 
 ### 2. What were some challenges your group faced in this unit?
 
