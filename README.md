@@ -25,39 +25,39 @@ Backend:
 Supabase
 
 ## Features
-[ ] The web app includes an Express backend app and a React frontend app.
-[ ] The web app includes dynamic routes for both frontend and backend apps.
-[ ] The web app is deployed on Railway with all pages and features working.
+[] The web app includes an Express backend app and a React frontend app.
+[] The web app includes dynamic routes for both frontend and backend apps.
+[] The web app is deployed on Railway with all pages and features working.
 
 # Backend Features
 The web app implements at least one of each of the following database relationship in Postgres:
-[ ] one-to-many (artist to releases, release to tracks, fan to purchases)
-[ ] many-to-many with a join table (orders consist of multiple releases, join table is orderReleases table which joins releaseID to orderID)
+[] one-to-many (artist to releases, release to tracks, fan to purchases)
+[] many-to-many with a join table (orders consist of multiple releases, join table is orderReleases table which joins releaseID to orderID)
 
 The web app implements a well-designed RESTful API that:
 Can respond to at least one of each type of request:
-[ ] GET - retrieve all releases, artists, or customers as well as individual records for each or filtered results
-[ ] POST - create artist, release, customer, or order details
-[ ] PATCH - update artist, release, customer, or order details
-[ ] DELETE - delete artist, release, customer, or order
-[ ] Implements proper naming conventions for routes.
-[ ] The web app implements the ability to reset the database to its default state.
+[] GET - retrieve all releases, artists, or customers as well as individual records for each or filtered results
+[] POST - create artist, release, customer, or order details
+[] PATCH - update artist, release, customer, or order details
+[] DELETE - delete artist, release, customer, or order
+[] Implements proper naming conventions for routes.
+[] The web app implements the ability to reset the database to its default state.
 
 # Frontend Features
-[ ] The web app implements at least one redirection.
-[ ] The web app implements at least one interaction that the user can initiate and complete on the same page without navigating to a new page.
-[ ] The web app uses dynamic frontend routes created with React Router.
+[] The web app implements at least one redirection.
+[] The web app implements at least one interaction that the user can initiate and complete on the same page without navigating to a new page.
+[] The web app uses dynamic frontend routes created with React Router.
 The web app uses hierarchically designed React components:
-[ ] Components are broken down into categories, including page and component types.
-[ ] Corresponding container components and presenter components as appropriate.
+[] Components are broken down into categories, including page and component types.
+[] Corresponding container components and presenter components as appropriate.
 
 ## Custom Features
-[ ] The web app allows filtering and/or sorting as appropriate for your use case. (Customers can search for artists by specific attributes)
-[ ] Data submitted via a POST or PATCH request is validated before the database is updated.
+[] The web app allows filtering and/or sorting as appropriate for your use case. (Customers can search for artists by specific attributes)
+[] Data submitted via a POST or PATCH request is validated before the database is updated.
 
 ## Stretch Features
-[ ] Integrate Stripe API
-[ ] Convert from React to Next.js web app
+[] Integrate Stripe API
+[] Convert from React to Next.js web app
 
 ### Fan registration
 
