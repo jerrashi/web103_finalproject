@@ -44,8 +44,8 @@ Can respond to at least one of each type of request:
 [] The web app implements the ability to reset the database to its default state.
 
 # Frontend Features
-[] The web app implements at least one redirection.
-[] The web app implements at least one interaction that the user can initiate and complete on the same page without navigating to a new page.
+[] The web app implements at least one redirection. After an artist, release, order, or customer is created, the web app redirects to the home page.
+[] The web app implements at least one interaction that the user can initiate and complete on the same page without navigating to a new page. Customer can edit profile without navigating to a new page.
 [] The web app uses dynamic frontend routes created with React Router.
 The web app uses hierarchically designed React components:
 [] Components are broken down into categories, including page and component types.
