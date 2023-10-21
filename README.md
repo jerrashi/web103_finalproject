@@ -19,86 +19,98 @@ Bandcamp.com is an online music distribution platform recently sold by Epic Game
 ## Tech Stack
 
 Frontend:
+Next.js, React, Javascript
 
 Backend:
+Supabase
 
 ## Features
+One to many relation: Each artist has many releases.
+Many to many relation: Each release will be tied to orders which is the join table between releases and customers.
+RESTful API design to allow for CRUD operations - Artist with releases, Customers with orders.
+Reset function for database.
+User can complete cart and check out as single page application.
+404 site not found redirection.
+
+Custom:
+Checkout cart shows up as slide out.
+User can sort artists by fields and filter.
 
 ### Fan registration
 
-[short description goes here]
+As a fan, I want to sign up so I can be able to catch up on the most recent releases of my favorite artists.
 
 [gif goes here]
 
 ### Artist registration
 
-[short description goes here]
+As an artist, I want to sign up so I can be able to keep in touch with my audience.
 
 [gif goes here]
 
 ### Fan profile creation
 
-[short description goes here]
+As a fan, I want to create and maintain a profile so I can showcase my personality and communicate with my favorite artists.
 
 [gif goes here]
 
 ### Artist profile creation
 
-[short description goes here]
+As an artist, I want to create and maintain a profile so I can showcase my brand and communicate with my audience.
 
 [gif goes here]
 
 ### Artist content upload
 
-[short description goes here]
+As an artist, I want to be able to upload my latest releases onto the web for my fans.
 
 [gif goes here]
 
 ### Artist implements price change
 
-[short description goes here]
+As an artist, I want to be able to promote my releases with promotions so that I can sell more of my work.
 
 [gif goes here]
 
 ### Artist's transaction data
 
-[short description goes here]
+As an artist, I want to be able to look through transaction data to figure out my largest markets and most loyal fans.
 
 [gif goes here]
 
 ### Artist's discography view
 
-[short description goes here]
+As an artist, I want to be able to view my discography quickly and be able to share it to provide fans with a quick overview of my work.
 
 [gif goes here]
 
 ### Fan downloads Artist content
 
-[short description goes here]
+As a fan, I want to be able to keep the content I paid for so I can keep my favorite work accessible on or offline.
 
 [gif goes here]
 
 ### Fan view of their download collection
 
-[short description goes here]
+As a fan, I want to be able to quickly view which items I have downloaded already so I can know which items I have yet to download.
 
 [gif goes here]
 
 ### Fans can search artists
 
-[short description goes here]
+As a fan, I want to search for artists to keep discovering new music.
 
 [gif goes here]
 
 ### Fans can filter and sort artists by attributes
 
-[short description goes here]
+As a fan, I want to filter and sort artists so I can find artists I might enjoy.
 
 [gif goes here]
 
 ### Fans view other Fan's profile
 
-[short description goes here]
+As a fan, I want to view other fans so I can connect with other users.
 
 [gif goes here]
 
