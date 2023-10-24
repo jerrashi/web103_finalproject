@@ -8,6 +8,7 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 - Artist discography page
 - Release detail page
 - User profile page
+- User edit profile page
 - Artist dashboard page
 - Create / Sign Up Modals over the above pages
 
