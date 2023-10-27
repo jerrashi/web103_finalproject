@@ -4,18 +4,26 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## List of Pages
 
-[👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
+- Landing page
+- Artist discography page
+- Release detail page
+- User profile page
+- User edit profile page
+- Artist dashboard page
+- Create / Sign Up Modals over the above pages
 
-## Wireframe 1: [page title]
+## Wireframe 1: User Profile page
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+![Profile](./wireframes/User%20-%20Collection.png)
 
-## Wireframe 2: [page title]
+## Wireframe 2: Artist Discography page
 
-[👉🏾👉🏾👉🏾 include wireframe 2]
+![Discography](./wireframes/Artist%20-%20Discography%20Overview.png)
 
-## Wireframe 3: [page title]
+## Wireframe 3: Sign up modal over page
 
-[👉🏾👉🏾👉🏾 include wireframe 3]
+![SignUp](./wireframes/Account%20Signup.png)
 
-[👉🏾👉🏾👉🏾 include more wireframes as desired]
+## Wireframe 3: Release Details page
+
+![Release Details](./wireframes/Release%20Details.png)

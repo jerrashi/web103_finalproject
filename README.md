@@ -140,3 +140,9 @@ As a fan, I want to view other fans so I can connect with other users.
 ## Installation Instructions
 
 [instructions go here]
+
+## Gif Walkthrough of Milestone 1
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZwOTNzbDhneHB3MXBybDdxOHcwbDBhZjB4YW5vajR3d3FmNWM3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q3llEhDDmXiLWBGdHY/giphy.gif" title="Video Walkthrough" width="" alt="Video Walkthrough">
+
+Gif created with [ScreenToGif](https://www.screentogif.com/) for Windows
