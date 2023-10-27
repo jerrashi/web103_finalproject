@@ -1,19 +1,17 @@
 # Entity Relationship Diagram
 
-Reference the Creating an Entity Relationship Diagram final project guide in the course portal for more information about how to complete this deliverable.
-
 ## Create the List of Tables
 
 - Artists
 - Releases
 - Tracks
-- Users
+- Customers
 - Orders
 - ReleaseOrders
 
 ## Add the Entity Relationship Diagram
 
-![Entity Relationship Diagram](./Copy%20of%20ERD_model.jpg)
+![Entity Relationship Diagram](./Copy%20of%20ERD_model.png)
 
 ### Artists
 
